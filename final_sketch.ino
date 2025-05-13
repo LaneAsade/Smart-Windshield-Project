@@ -5,8 +5,8 @@
 #include "soc/rtc_cntl_reg.h"  //Disable brownout problems
 
 //Replace with your network credentials
-const char* ssid="iPhone";
-const char* password="naelsaade";
+const char* ssid="****";
+const char* password="****";
 
 //Pin definitions for CAMERA_MODEL_AI_THINKER
 #define PWDN_GPIO_NUM     32
