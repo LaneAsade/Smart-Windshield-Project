@@ -35,7 +35,7 @@ This zone-wise dimming helps preserve visibility while reducing driver discomfor
 
 ## Demo Video
 
-![Demo Video](https://github.com/user-attachments/assets/c8772377-3cb8-4662-9f48-af8a66134c9c)
+https://github.com/user-attachments/assets/23d1ef1b-6c5d-45da-a017-03d93b5efbbe
 
 
 ---
