@@ -33,5 +33,10 @@ This zone-wise dimming helps preserve visibility while reducing driver discomfor
 - Voice or gesture control integration
 - Solar-powered system for self-sustainability
 
+## Demo Video
+
+![Demo Video](https://github.com/user-attachments/assets/c8772377-3cb8-4662-9f48-af8a66134c9c)
+
+
 ---
 
